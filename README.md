@@ -73,8 +73,8 @@ I have a folder with the case spliced into ~52x52mm tiles for easy printing. You
 ## Known Issues
 - Dunno yet
 
-[Jump to top of page](#SDVX-Full-Size-Controller-Keyboard-Style)
+[Jump to top of page](#table-of-contents)
 
 ## Part/Assembly Photos
 
-[Jump to top of page](#SDVX-Full-Size-Controller-Keyboard-Style)
+[Jump to top of page](#table-of-contents)
