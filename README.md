@@ -61,7 +61,7 @@ A full size controller for Sound Voltex with custom arcade size keycaps, and no 
 Make a ZIP archive out of the PCB folder and sent it to a PCB manufacturer of your choosing. Make sure it says 1.6mm, 2 layer. I personally used JLCPCB cause they were the cheapest for me (I'm in the US, also no this is not sponsored). Do some digging and find out what is cheapest for where you live, JLCPCB and PCBWAY seem to be good, Aisler for EU, etc.
 
 
-## 3D Printing Details
+## 3D Printing
 The keycap stems are the finest detail in the assembly, so a resin printer is highly recommended. Everything else it doesn't really matter.
 (It is probably doable with a 0.2mm nozzle on a filament printer but you might have to mess with the hole sizing yourself.)
 
