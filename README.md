@@ -22,6 +22,7 @@ A full size controller for Sound Voltex with custom arcade size keycaps, and no 
  [Todo](#todo)
  
  [Known Issues](#known-issues)
+ 
  [Part/Assembly Photos](#partassembly-photos)
 
 ## Tools Required:
@@ -59,12 +60,26 @@ A full size controller for Sound Voltex with custom arcade size keycaps, and no 
 ## PCB Ordering
 Make a ZIP archive out of the PCB folder and sent it to a PCB manufacturer of your choosing. Make sure it says 1.6mm, 2 layer. I personally used JLCPCB cause they were the cheapest for me (I'm in the US, also no this is not sponsored). Do some digging and find out what is cheapest for where you live, JLCPCB and PCBWAY seem to be good, Aisler for EU, etc.
 
+The PCB is designed to just have an Arduino Micro (with headers) plug into the back, and just have screw in stabilizers, and (Technically optional?) Kailh hotswap sockets (I'm going to solder mine, I'll update if I try one handwired)
 
 ## 3D Printing
 The keycap stems are the finest detail in the assembly, so a resin printer is highly recommended. Everything else it doesn't really matter.
 (It is probably doable with a 0.2mm nozzle on a filament printer but you might have to mess with the hole sizing yourself.)
 
-I have a folder with the case spliced into ~52x52mm tiles for easy printing. You can go into FreeCad and easily change up the splicing yourself if need be, just look up FreeCad Splice Apart tool.
+To print: After downloading and unzipping, go to SDVX-Keyboard-Controller/3D Manufacturing Files, you should see:
+- bt_keycap.3mf
+- fx_keycap.3mf
+- stem_tolerance_tester.3mf
+
+These are the BT and FX button keycaps, named respectively. I would recommend printing the stem tolerance tester first though to see what setting you need to print with to make the stems fit nicely on the switch. If you do end up needing to edit the tolerances, the design files are under the SDVX-Keyboard-Controller/3D Manufacturing Files/Design Files
+
+The case is in the sdvx_case_v0.1 folder, split into many parts approx 52x52 mm. The naming convention for the parts is as follows:
+enc_L, enc_L_side			     enc_R_side,  enc_R
+enc_L_lower(0, 0) (1, 0) (2, 0) (3, 0) (4, 0) (5, 0)enc_R_lower
+	   (0, 1) (1, 1) (2, 1) (3, 1) (4, 1) (5, 1)
+	   (0, 2) (1, 2) (2, 2) (3, 2) (4, 2) (5, 2)
+
+After printing all the individual parts (Make sure they fit as you put them together), glue them together with your choice of adhesive (e.g. Gorilla Glue)
 
 ## Todo
 - BT Stabilizer Holes are too far apart, decide between BT Keycap with no lip or redo PCB
