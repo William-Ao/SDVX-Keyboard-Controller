@@ -2,7 +2,7 @@
 A full size controller for Sound Voltex with custom arcade size keycaps, and no _required_ soldering (technically) 
 
 ![image](https://github.com/user-attachments/assets/07e01adc-5efb-46b8-88ae-d9808e03dd2b)
-#### Assembly without encoders/knobs
+###### _Figure 1. Assembly without encoders/knobs_
 
 ## Table of Contents:
 #### Tools Required
