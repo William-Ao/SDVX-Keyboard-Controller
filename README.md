@@ -5,9 +5,10 @@ I wanted it to be as easy to put together as possible, so the case is made of sm
 
 
 ![image](https://github.com/user-attachments/assets/9a7b1bfd-62c1-44c1-a583-e57ed6d0b2ee)
-###### _Figure 1. Full assembly_
-![image](https://github.com/user-attachments/assets/2ac9d35a-dacf-4a22-8c45-e2eea49a2a86)
-###### _Figure 2. Modular version (without encoders)_
+###### _Figure 1. v0.1 Full assembly_
+![image](https://github.com/user-attachments/assets/a7869074-3bdf-4583-be19-54bcabf8a5e2)
+
+###### _Figure 2. v0.2 Modular version_
 
 
 ## Table of Contents:
