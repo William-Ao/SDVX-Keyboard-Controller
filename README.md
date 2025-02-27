@@ -22,7 +22,6 @@ A full size controller for Sound Voltex with custom arcade size keycaps, and no 
  [Todo](#todo)
  
  [Known Issues](#known-issues)
- 
  [Part/Assembly Photos](#partassembly-photos)
 
 ## Tools Required:
