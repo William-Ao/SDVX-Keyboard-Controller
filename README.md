@@ -73,11 +73,9 @@ To print: After downloading and unzipping, go to SDVX-Keyboard-Controller/3D Man
 
 These are the BT and FX button keycaps, named respectively. I would recommend printing the stem tolerance tester first though to see what setting you need to print with to make the stems fit nicely on the switch. If you do end up needing to edit the tolerances, the design files are under the SDVX-Keyboard-Controller/3D Manufacturing Files/Design Files
 
-The case is in the sdvx_case_v0.1 folder, split into many parts approx 52x52 mm. The naming convention for the parts is as follows:
-enc_L, enc_L_side			     enc_R_side,  enc_R
-enc_L_lower(0, 0) (1, 0) (2, 0) (3, 0) (4, 0) (5, 0)enc_R_lower
-	   (0, 1) (1, 1) (2, 1) (3, 1) (4, 1) (5, 1)
-	   (0, 2) (1, 2) (2, 2) (3, 2) (4, 2) (5, 2)
+The case is in the sdvx_case_v0.1 folder, split into many parts approx 52x52 mm. The files are named as follows:
+- enc_L, enc_R are the actual encoder housings, the _side and _lower files go on the side and bottom
+- The PCB coordinates start in the top left, you can probably piece it together afterwards with the picture but just know that the top left is 0_0 and the bottom right is 5_2
 
 After printing all the individual parts (Make sure they fit as you put them together), glue them together with your choice of adhesive (e.g. Gorilla Glue)
 
