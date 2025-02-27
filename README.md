@@ -9,14 +9,21 @@ A full size controller for Sound Voltex with custom arcade size keycaps, and no 
 
 
 ## Table of Contents:
-#### Tools Required
-#### Parts Needed
-#### General Instructions
-#### PCB Ordering
-#### 3D Printing Details
-#### Todo
-#### Known Issues
-#### Part/Assembly Photos
+ [Tools Required](#tools-required)
+ 
+ [Parts Needed](#parts-needed)
+ 
+ [General Instructions](#general-instructions)
+ 
+ [PCB Ordering](#pcb-ordering)
+ 
+ [3D Printing](#3d-printing)
+ 
+ [Todo](#todo)
+ 
+ [Known Issues](#known-issues)
+ 
+ [Part/Assembly Photos](#partassembly-photos)
 
 ## Tools Required:
 - Gorilla Glue (If 3D printing the case in many parts, which is the most likely scenario)
@@ -34,8 +41,8 @@ A full size controller for Sound Voltex with custom arcade size keycaps, and no 
 - 1x 3D Printed case
 
 ## General Instructions:
-1. Order PCB (Instructions here)
-2. 3D Print in many parts and assemble (Details)
+1. Order PCB [Instructions](#pcb-ordering)
+2. 3D Print in many parts and assemble [Details](#3d-printing)
 3. Solder Kailh hotswap sockets onto PCB (Technically optional if you just handwire the pins by stuffing the hole with some conductive material)
 4. Screw in stabilizers and clip in wires
 5. Apply gasket strips to edge of PCB (place them so they're half on/half off the pcb)
@@ -50,7 +57,7 @@ A full size controller for Sound Voltex with custom arcade size keycaps, and no 
 14. Place PCB assembly into socket on the case
 15. Game
 
-## PCB Ordering Details
+## PCB Ordering
 Make a ZIP archive out of the PCB folder and sent it to a PCB manufacturer of your choosing. Make sure it says 1.6mm, 2 layer. I personally used JLCPCB cause they were the cheapest for me (I'm in the US, also no this is not sponsored). Do some digging and find out what is cheapest for where you live, JLCPCB and PCBWAY seem to be good, Aisler for EU, etc.
 
 
