@@ -1,5 +1,7 @@
 # SDVX Full Size Controller - Keyboard Style v0.1
-A full size controller for Sound Voltex with custom arcade size keycaps, and no _required_ soldering (technically) 
+A full size controller for Sound Voltex with custom arcade size keycaps, and no _required_ soldering (technically).
+
+I wanted it to be as easy to put together as possible, so the case is made of small, repeatable parts that _should_ be capable of being printed on most printers without any extra hassle of splicing.
 
 
 ![image](https://github.com/user-attachments/assets/9a7b1bfd-62c1-44c1-a583-e57ed6d0b2ee)
