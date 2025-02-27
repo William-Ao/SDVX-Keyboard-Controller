@@ -1,2 +1,2 @@
-# Sdvx-Keyboard-Controller
- Full size Sound Voltex controller with custom arcade size keycaps
+# SDVX Full Size Controller - Keyboard Style
+ A full size controller for Sound Voltex with custom arcade size keycaps!
