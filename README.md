@@ -5,7 +5,8 @@ A full size controller for Sound Voltex with custom arcade size keycaps, and no 
 
 ![image](https://github.com/user-attachments/assets/9a7b1bfd-62c1-44c1-a583-e57ed6d0b2ee)
 ###### _Figure 1. Full assembly_
-
+![image](https://github.com/user-attachments/assets/2ac9d35a-dacf-4a22-8c45-e2eea49a2a86)
+###### _Figure 2. Modular version (without encoders)_
 
 
 ## Table of Contents:
