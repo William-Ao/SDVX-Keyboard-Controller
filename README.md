@@ -57,7 +57,7 @@ The keycap stems are the finest detail in the assembly, so a resin printer is hi
 I have a folder with the case spliced into ~52x52mm tiles for easy printing. You can go into FreeCad and easily change up the splicing yourself if need be, just look up FreeCad Splice Apart tool.
 
 ## Todo
-- Just make it better
+- BT Stabilizer Holes are too far apart, decide between BT Keycap with no lip or redo PCB
 
 ## Known Issues
 - Dunno yet
