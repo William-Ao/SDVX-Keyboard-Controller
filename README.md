@@ -80,7 +80,7 @@ The case is in the sdvx_case_v0.1 folder, split into many parts approx 52x52 mm.
 After printing all the individual parts (Make sure they fit as you put them together), glue them together with your choice of adhesive (e.g. Gorilla Glue)
 
 ## Todo
-- BT Stabilizer Holes are too far apart, decide between BT Keycap with no lip or redo PCB
+- Improve case by culling the extra parts of the baseplate and adding a connector between the encoder housing and the PCB housing that isn't the baseplate
 
 ## Known Issues
 - Dunno yet
