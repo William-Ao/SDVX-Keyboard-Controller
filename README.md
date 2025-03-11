@@ -3,6 +3,7 @@ A full size controller for Sound Voltex with custom arcade size keycaps, and no 
 
 I wanted it to be as easy to put together as possible, so the case is made of small, repeatable parts that _should_ be capable of being printed on most printers without any extra hassle of splicing.
 
+# Note: I'm putting this on the backburner until I get my 3D printer, I can make this way better and I think I'm kind of stupid
 
 ![image](https://github.com/user-attachments/assets/9a7b1bfd-62c1-44c1-a583-e57ed6d0b2ee)
 ###### _Figure 1. v0.1 Full assembly_
